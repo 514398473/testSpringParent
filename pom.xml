@@ -10,6 +10,10 @@
 	<modules>
 		<module>testSpringBoot</module>
 		<module>testSpringEurekaServer</module>
+		<module>testSpringEurekaClient</module>
+		<module>testSpringSericeFeign</module>
+		<module>testSpringSericeZuul</module>
+		<module>testSpringServiceRibbon</module>
 	</modules>
 
 	<name>testSpringParent Maven</name>
