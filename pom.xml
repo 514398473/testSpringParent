@@ -14,6 +14,8 @@
 		<module>testSpringSericeFeign</module>
 		<module>testSpringSericeZuul</module>
 		<module>testSpringServiceRibbon</module>
+		<module>testSpringSericeZipkinHi</module>
+		<module>testSpringSericeZipkinMiya</module>
 	</modules>
 
 	<name>testSpringParent Maven</name>
