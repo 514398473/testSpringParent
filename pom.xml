@@ -16,6 +16,7 @@
 		<module>testSpringServiceRibbon</module>
 		<module>testSpringSericeZipkinHi</module>
 		<module>testSpringSericeZipkinMiya</module>
+		<module>testSpringSericeTurbine</module>
 	</modules>
 
 	<name>testSpringParent Maven</name>
